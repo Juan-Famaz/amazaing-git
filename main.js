@@ -1,4 +1,7 @@
-const a = "modifico por que quiero"
+const a = "buenas la people"
+
+console.log();
+
 
 
 
