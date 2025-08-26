@@ -1,4 +1,7 @@
-const a = "que tal"
+const a = "buenas la people"
+
+console.log();
+
 
 
 
