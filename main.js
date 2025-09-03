@@ -1,6 +1,7 @@
-const a = "buenas"
+const a = "la buena"
+console.log(a);
 
-console.log();
+console.log("cambios realizados");
 
 
 
