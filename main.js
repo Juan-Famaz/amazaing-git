@@ -1,4 +1,4 @@
-const a = "buenas la people"
+const a = "como me le va a la people"
 
 console.log();
 
