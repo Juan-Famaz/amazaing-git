@@ -1,4 +1,4 @@
-const a = "la mala"
+const a = "password"
 console.log(a);
 
 console.log("********");
